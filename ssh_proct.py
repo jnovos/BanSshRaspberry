@@ -23,7 +23,7 @@ import os
 import time
 
 # VARS
-log_path = 'auth.log'
+log_path = '/var/log/auth.log'
 hosts=[]
 full_hosts_data=[]
 previous_ip = ""
