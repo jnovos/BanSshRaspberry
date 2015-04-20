@@ -1,6 +1,6 @@
 # BanSshRaspberry
-Script in python to ban access to the ssh in RasberryPi
-
+Script in python to ban access to the ssh in RasberryPi <br/>
+Spanish version here [http://unpoquitindetodo.blogspot.com.es/2015/04/bloquear-banear-las-ips-de-atacantes-al.html](Spanish%20version%20here%20http://unpoquitindetodo.blogspot.com.es/2015/04/bloquear-banear-las-ips-de-atacantes-al.html) 
 
 ----------
 
